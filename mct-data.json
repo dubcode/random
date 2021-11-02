@@ -1,6 +1,6 @@
 [
     {
-      "id": 52,
+      "id": 1,
       "ref": "Journal Article",
       "title": "Optimisation of the ceramic-like body for ceramifiable EVA-based composites",
       "source": "Science and Engineering of Composite Materials",
@@ -17,7 +17,7 @@
       "abstract": "Various ceramifiable ethylene-vinyl acetate copolymer (EVA) composites were prepared by melt blending with two kinds of glass frits, organically modified montmorillonite (OMMT) and whitened and capsulised red phosphorus (WCRP). The influence of different filler components and firing temperatures on the ceramifiable properties of the composites was studied. The dripping behaviour of the composites was analyzed by a vertical burning test. The microstructure of the residues was characterised by X-ray diffraction (XRD) and scanning electron microscopy. The results showed that the optimised EVA composite was free of melt dripping during burning with the addition of OMMT. A dimensionally stable and dense ceramic residue was also obtained,  specially with the addition of WCRP. It was suggested that new phases were formed at firing temperatures, and WCRP could promote the formation of ceramic body which was not fused during firing at 900°C as evidenced by XRD."
     },
     {
-      "id": 30,
+      "id": 2,
       "ref": "Journal Article",
       "title": "Flame retardancy of silicone-based materials",
       "source": "Polymer Degradation and Stability",
@@ -34,7 +34,7 @@
       "abstract": "This review describes some recent works related to the development of the flame retardation of silicone elastomers and/or applications of silicones as flame retardant agents in other polymers. First, the thermal degradation of silicones themselves is discussed, focussing on depolymerization mechanisms, effect of structure, heating conditions, and effect of additives (i.e. less than 5 wt% fillers) on thermal degradation of silicones. Then, the influence of several types of mineral fillers (of up to 80 wt% content) as ceramization agents of silicones is presented. Finally, the introduction of (functionalized) silicones as flame retardants into other polymers is described."
     },
     {
-      "id": 16,
+      "id": 3,
       "ref": "Journal Article",
       "title": "Synergistic Effect of Mica, Glass Frit, and Melamine Cyanurate for Improving Fire Resistance of Styrene-Butadiene Rubber Composites Destined for Ceramizable Coatings",
       "source": "Coatings",
@@ -51,7 +51,7 @@
       "abstract": "Synergistic effects of different fillers are widely utilized in polymer technology. The combination of various types of fillers is used to improve various properties of polymer composites. In this paper, a synergistic effect of flame retardants was tested to improve the performance of ceramizable composites. The composites were based of styrene-butadiene rubber (SBR) used as polymer matrix. Three different types of flame retardants were tested for synergistic effect: Mica (phlogopite) high aspect-ratio platelets, along with low softening point temperature glass frit (featuring ceramization effect), and melamine cyanurate, a commonly used flame retardant promoting carbonaceous char. In order to characterize the properties of the composites, combustibility, thermal stability, viscoelastic properties, micromorphology, and mechanical properties were tested before and after ceramization. The results obtained show that the synergistic effect of ceramization promoting fillers and melamine cyanurate was especially visible with respect to the flame retardant properties resulting in a significant improvement of fire resistance of the composites."
     },
     {
-      "id": 23,
+      "id": 4,
       "ref": "Journal Article",
       "title": "Effect of the Flux on the Fire-Resistance Properties of Ceramifiable EPDM Rubber Composites",
       "source": "Composites and Advance Materials",
@@ -68,7 +68,7 @@
       "abstract": "In this paper, two kinds of glass frit and zinc borate as fluxes were used to prepare ceramifiable EPDM rubber composites, and the mechanical test, SEM, XRD and TG-DSC were used to study the effects of fluxes on the thermal stability and pyrolysis performance of composite materials. The results showed that the addition of the three kind of fluxes helped the filler to form a large amount of liquid phase structure at high temperature, and then a good ceramic structure formed to improve the thermal stability of the composite material and the bending strength of the pyrolysis product. The XRD analysis showed that the main phases after pyrolysis of composite materials adding glass frit A were forsterite and quartz, and the main phases after pyrolysis of composite materials adding glass frit B or zinc borate were spinel and quartz."
     },
     {
-      "id": 29,
+      "id": 5,
       "ref": "Patent",
       "title": "Fire Retardant Resin Compositions Containing Moisture Resistant Low Melting Phosphate Glass",
       "source": "US Patent",
@@ -85,7 +85,7 @@
       "abstract": "Moisture sensitivity of glass used as a reinforcing and fire retarding resin filler is improved by surface treating the particulate or fibrous glass with alkaline solutions of magnesium, calcium, barium, iron, alumiid, lead or zinc compounds."
     },
     {
-      "id": 39,
+      "id": 6,
       "ref": "Thesis",
       "title": "Epoxy networks containing silica-based glass domains (excerpted from 'Investigation of Polyhedral Oligomeric Silsesquioxanes for improved fire retardancy of hybrid epoxy-based polymer systems')",
       "source": "Cranfield University",
@@ -102,7 +102,7 @@
       "abstract": "Excerpted from 'Investigation of Polyhedral Oligomeric Silsesquioxanes for improved fire retardancy of hybrid epoxy-based polymer systems'. \nCeepree performs well in the epoxy network. But, there are no comparisons with other systems."
     },
     {
-      "id": 61,
+      "id": 7,
       "ref": "Journal Article",
       "title": "Flammability of Layered Silicate Epoxy Nanocomposites Combined with Low-Melting Inorganic Ceepree Glass",
       "source": "Polymer Engineering & Science",
@@ -119,7 +119,7 @@
       "abstract": "Tetraphenylphosphonium modified layered silicate epoxy nanocomposite (EP/TPPMMT) combined with low-melting silicate glass, Ceepree (CP) is investigated by thermal analysis, flammability tests and cone calorimeter at different heat fluxes. Adding CP and TPPMMT does not change the pyrolysis apart from increasing inorganic residue. The total heat evolved (THE) is changed insignificantly, as neither relevant additional carbonaceous charring nor flame inhibition occurs. However, flame retardancy is clearly observed due to an inorganic-carbonaceous surface protection layer. The peak heat released rate (PHRR) is reduced by around 32–42% when 5 wt% TPPMMT is added, and 51–63% when 10 wt% CP is added. PHRR reduction less than expected is observed when both additives are combined. The reduction is greater than that achieved by using TPPMMT but less than when only CP is used. The morphology of fire residue is investigated by scanning electron microscope on different length scales and turns out to be the key to understanding the efficiency of flame retardancy. The fire residue of EP/CP shows a layered structure, whereas separated columns limit the barrier properties for EP/ 5%TPPMMT on the micrometer scale. Columns dominating the fire residue structure of EP/5%TPPMMT/ 10%CP deteriorate the fire retardancy, whereas a more integral structure at the top of the residue causes the improvement over EP/5%TPPMMT."
     },
     {
-      "id": 10,
+      "id": 8,
       "ref": "Patent",
       "title": "Capstock Polymer Composition",
       "source": "EU Patent",
@@ -136,7 +136,7 @@
       "abstract": "The present invention relates to a polymer composition for use as a capstock material for making plastic laminates."
     },
     {
-      "id": 45,
+      "id": 9,
       "ref": "Journal Article",
       "title": "Low-melting sulphate glasses and glass-ceramics, and their utility as fire and smoke retarder additives for poly(vinyl chloride) ",
       "source": "Journal of Materials Science",
@@ -153,7 +153,7 @@
       "abstract": "Low-melting sulphate glasses and glass-ceramics, which are effective fire and smoke retarder additives for poly(vinyl chloride) (PVC), have been developed. They are based on lowmelting, glass-forming compositions in the K2SO4-Na2SO4-ZnS04 ternary system. The preferred ternary sulphate glass melts at 420~ and has the composition K2S04 9 NazS04  9 2ZnS04, which also corresponds to the composition of a congruently melting ternary compound. In a simple, tin-stabilized PVC compound, lOphr (parts per hundred of resin) resulted in a 54% reduction in smoke in the flaming mode of the NBS Smoke Chamber. 40phr gave a smoke reduction of 83%. The preferred ternary sulphate glass also works in concert with low levels of other known smoke retarders. For example, lOphr of the ternary glass and 5phr of MoO3 gave a smoke reduction of 78%, while 40phr of the glass and 5phr of MoO3 gave a smoke reduction of 93%. The addition of transition metal sulphates to low-melting compositions in the KzS04- Na2SO4-ZnS04 system led to the development of low-melting glasses and glass-ceramics containing Ni 2+, Cu 2§ and VO 2+. These transition metal modified sulphates were also very effective smoke retarders in the simple PVC compound. All of the low-melting\nsulphate glasses and glass-ceramics promoted intumescence and char formation during combustion of the simple PVC compound. In this way they effectively formed thermal barriers to retard further combustion. "
     },
     {
-      "id": 22,
+      "id": 10,
       "ref": "Journal Article",
       "title": "Ceramifiable EVA/APP/SGF composites for improved ceramifiable properties",
       "source": "Polymer Degradation and Stability",
@@ -170,7 +170,7 @@
       "abstract": "Ceramifiable ethylene-vinyl acetate (EVA) copolymer composites were prepared through incorporating silicate glass frits (SGF) and ammonium polyphosphate (APP) into the EVA. The ceramic residues were obtained by firing all samples at different temperatures. The effect of APP on the self-supporting property and shape stability of the composites were studied, and the effect of APP on thefl exural strength and water absorption of the ceramic residues were investigated. The results show that the addition of APP improved the self-supporting property and the flexural strength of the composites due to the increased crystal phase. The shape stability and the porous structure of the residues increased due to water and NH3 released from the thermal decomposition of APP. XRD and SEM analysis demonstrated that APP promotes the precipitation of sodium phosphate and cristobalite. Furthermore, the growth process of the crystal was investigated by crystallization kinetic."
     },
     {
-      "id": 14,
+      "id": 11,
       "ref": "Journal Article",
       "title": "Thermal Stability and Flammability of Styrene-Butadiene Rubber-Based (SBR) Ceramifiable Composites",
       "source": "Materials",
@@ -187,7 +187,7 @@
       "abstract": "Ceramifiable styrene-butadiene (SBR)-based composites containing low-softening-point-temperature glassy frit promoting ceramification, precipitated silica, one of four thermally stable refractory fillers (halloysite, calcined kaolin, mica or wollastonite) and a sulfur-based curing system were prepared. Kinetics of vulcanization and basic mechanical properties were analyzed and added as Supplementary Materials. Combustibility of the composites was measured by means of cone calorimetry. Their thermal properties were analyzed by means of thermogravimetry and specific heat capacity determination. Activation energy of thermal decomposition was calculated using the Flynn-Wall-Ozawa method. Finally, compression strength of the composites after ceramification was measured and their micromorphology was studied by scanning electron microscopy. The addition of a ceramification-facilitating system resulted in the lowering of combustibility and significant improvement of the thermal stability of the composites. Moreover, the compression strength of the mineral structure formed after ceramification is considerably high. The most promising refractory fillers for SBR-based ceramifiable composites are mica and halloysite."
     },
     {
-      "id": 6,
+      "id": 12,
       "ref": "Thesis",
       "title": "Rubber compounds for industrial applications",
       "source": "Thesis",
@@ -221,7 +221,7 @@
       "abstract": "In this paper ceramization (ceramification) of polymer composites is presented as a promising method for gaining flame retardancy of the materials. Because of its passive fire protecting character, ceramization effect can be applied in polymer composites, which are dedicated for work in public places like shopping centers, sport halls, galleries and museums, office buildings, theatres or cinemas and public means of transport. In case of fire, ceramizable polymer composites turn into barrier ceramic materials, ensuring integrity of objects like electrical cables, window frames, doors, ceilings, etc., exposed on flames and heat, preventing from collapsing of materials and making electricity working, enabling effective evacuation. Moreover, ceramization process decreases emission of toxic or harmful gaseous products of polymer matrix degradation as well as its smoke intensity. The paper describes the mechanisms of ceramization for various polymer composites, especially focusing on silicone rubber-based ones, basic characteristics of the materials and ways of their testing."
     },
     {
-      "id": 27,
+      "id": 14,
       "ref": "Patent",
       "title": "Fire Barrier Materials (pH buffer)",
       "source": "International Patent",
@@ -238,7 +238,7 @@
       "abstract": "In this patent, M&CT Fire Barrier 8008 and, optionally, an intumescent substance and/or a pH buffer is particularly suitable for use in thermoplastic materials."
     },
     {
-      "id": 7,
+      "id": 15,
       "ref": "Patent",
       "title": "Intumescent One-Component Sealant",
       "source": "US Patent",
@@ -255,7 +255,7 @@
       "abstract": "The invention relates to an intumescent one-component sealant based on polyurethane and containing an intumescent agent and a vitreous fusible filler. The intumescent agent and the vitreous filler have been pretreated by reaction with an isocyanate having a functionality of at least 2. The sealant is stable in storage and is an effective fire barrier in the event of fire."
     },
     {
-      "id": 53,
+      "id": 16,
       "ref": "Journal Article",
       "title": "Processing and Properties of Fire Resistant EPDM Rubber-Based Ceramifiable Composites",
       "source": "High Temperature Materials and Processes",
@@ -272,7 +272,7 @@
       "abstract": "Low softening point temperature glassy frit, reinforcing silica, wollastonite and dicumyl peroxide were incorporated into ethylene-propylene-diene (EPDM) rubber matrix in different amounts in order to obtain ceramifiable composites. Kinetics of vulcanization of the mixes was measured. Mechanical properties, micromorphology, thermal properties and combustibility of the vulcanizates were studied as well as compression strength of the ceramic residue obtained after heat treatment. Studies show that optimal amount of glassy frit from the point of view of ceramification effectiveness in dispersed mineral phase is 40 % wt."
     },
     {
-      "id": 15,
+      "id": 17,
       "ref": "Journal Article",
       "title": "Thermal stability and flammability of silicone polymer composites",
       "source": "Polymer Degradation and Stability",
@@ -289,7 +289,7 @@
       "abstract": "Silicone polymer composites filled with mica, glass frit, ferric oxide and/or a combination of these were developed as part of a ceramifiable polymer range for electrical power cables and other high temperature applications. This paper reports on the thermal stability of polymer composites as determined by thermogravimetric techniques, thermal conductivity and heat release rate as measured by cone calorimetry. The effects of fillers on thermal stability and flammability of silicone polymer are investigated. Of the fillers studied, mica and ferric oxide were found to have a stabilising effect on the thermal stability of silicone polymer. Additionally, mica and ferric oxide were found to lower heat release rates during combustion, but only mica was found to increase time to ignition."
     },
     {
-      "id": 21,
+      "id": 18,
       "ref": "Journal Article",
       "title": "Improved Self-Supporting and Ceramifiable Properties of Cermaifiable EDPM Composites by Adding Aramid Fiber",
       "source": "Polymers",
@@ -306,7 +306,7 @@
       "abstract": "Ceramifiable ethylene propylene diene monomer (EPDM) composites with fiber network structures were prepared by using aramid fiber (AF), ammonium polyphosphate (APP), and silicate glass frits (SGF). The effect of AF on the curing characteristic of the ceramifiable EPDM composites was studied. The morphology of AF in the composites system was observed by optical microscopy (OM) and scanning electron microscope (SEM). The effects of the observed AF network structures on the solvent resistance, mechanical properties, ablative resistance, self-supporting property, and ceramifiable properties of the composites were investigated. Results suggested that the existence of the AF network structure improved the vulcanization properties, solvent resistance, thermal stability, and ablative resistance of the EPDM composites. An excellent self-supporting property of the EPDM composites was obtained by combining the formation of the AF network and the formation of crystalline phases at higher temperature (above 600 °C). The thermal shrinkage performance of AF and the increased thermal stability of the EPDM composites improved the ceramifiable properties of the EPDM composites."
     },
     {
-      "id": 50,
+      "id": 19,
       "ref": "Journal Article",
       "title": "A novel EVA composite with simultaneous flame retardation and ceramifiable capacity",
       "source": "Royal Society of Chemistry",
@@ -323,7 +323,7 @@
       "abstract": "Ethylene-vinyl acetate (EVA) filled with glass dust (GD), glass fiber (GF), OMMT, and melamine cyanurate (MCA) was developed as a ceramifiable flame-retardant polymer composite for cables and insulated wires. The ceramics formed at different high temperatures based on the ceramifiable flame-retardant polymer composites were investigated by mechanical testing, scanning electron microscopy (SEM), and energy dispersive X-ray (EDX) spectroscopy the flame retardation of the ceramifiable flame-retardant EVA composites was studied with the aid of vertical burning testing (UL-94), limiting oxygen index (LOI), and cone calorimeter (CC) tests. The results showed that the ceramics were prepared successfully at different high temperatures based on the ceramifiable flame-retardant polymer composites. For the EVA/GD/GF/OMMT/MCA system with a weight ratio of 35/26/9/5/25, the ceramic formed at 800 C had a flexural strength of 13.82 MPa, and both a UL-94 V-0 rating and a LOI of 28.2% were achieved. Moreover, CC results confirmed that the heat release rate (HRR), total release rate (THR), smoke production rate (SPR), and mass loss rate (MLR) of the composite were reduced significantly compared with the corresponding value of neat EVA or the ceramifiable EVA composite without MCA. The dilatometric experiment analysis, SEM, and viscosity analysis demonstrated that a eutectic mixture resulting from GD and GF led to the formation of ceramics at high temperature. Thermal gravimetric analysis (TG), etc. illustrated that both the release of a large amount of non-flammable gas and the presence of OMMT led to the much better flame retardancy of EVA/GD/GF/OMMT/MCA than that of neat EVA or the ceramifiable EVA composites without MCA."
     },
     {
-      "id": 49,
+      "id": 20,
       "ref": "Journal Article",
       "title": "The combination of glass dust and glass fiber as fluxing agents for ceramifiable silicone rubber composites",
       "source": "Royal Society of Chemistry",
